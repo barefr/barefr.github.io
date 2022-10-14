@@ -10,9 +10,9 @@ font-family: sans-serif;
 }
 .h1_main
 {
-  display: inline-block;
+
   font-size: 5.625rem;
-  margin: 50px 0 30px 50px;
+
   font-family: 'Sacramento', cursive;
   /* animation: cs_ 1.5s alternate ease-in-out infinite; */
 
@@ -111,7 +111,7 @@ margin-bottom: 5%;
   top: 100px;
   right: 12%; */
   animation: cs_ 2s alternate ease-in-out infinite;
-  margin: 50px 1 1 1;
+
   border-radius: 50%;
       border-style:solid;
       border-width:5px;
